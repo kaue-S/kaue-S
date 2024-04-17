@@ -1,5 +1,7 @@
 <h1 align="left">Olá! Sou o Kauê Evangelista ✌</h1>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev)](https://git.io/awesome-stats-card)
+
 ###
 
 <div align="left">
