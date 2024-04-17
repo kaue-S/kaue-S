@@ -12,6 +12,7 @@
 ###
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kaue-S)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kaue-S?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ###
 
