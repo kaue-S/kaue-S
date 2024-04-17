@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Olá,%20sou%20o%20Kauê%20Evangelista✌&section=header&reversal=false&fontColor=gray&fontSize=60" />
+<img src="[https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Olá,%20sou%20o%20Kauê%20Evangelista✌&section=header&reversal=false&fontColor=gray&fontSize=60](https://capsule-render.vercel.app/api?type=soft&height=300&color=1E90FF&text=Olá,%20sou%20o%20Kauê%20Evangelista✌&section=header&reversal=false&fontColor=f0f0f0&fontSize=60)" />
 <hr>
 
 <div align="left">
