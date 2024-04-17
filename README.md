@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Olá,%20sou%20o%20Kauê%20Evangelista✌&section=header&reversal=false&fontColor=gray&fontSize=60" />
 <hr>
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
