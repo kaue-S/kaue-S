@@ -1,4 +1,5 @@
 <h1 align="left">Olá! Sou o Kauê Evangelista ✌</h1>
+https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Olá,%20sou%20o%20Kauê%20Evangelista✌&section=header&reversal=false&fontColor=gray&fontSize=60
 
 ###
 
