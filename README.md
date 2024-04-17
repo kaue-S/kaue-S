@@ -10,10 +10,16 @@
 </div>
 
 ###
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kaue-S?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaue-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <div align="left">
+    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kaue-S?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaue-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Kaue-S&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaue-S&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 
 ###
