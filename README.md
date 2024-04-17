@@ -40,8 +40,10 @@
 </div>
 
 ###
+<div>
+  <img src="https://raw.githubusercontent.com/Kaue-S/Kaue-S/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/Kaue-S/Kaue-S/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
